@@ -1,0 +1,10 @@
+{
+	"version": "2019a",
+	"zones": [
+		"Asia/Bangkok|LMT BMT +07|-6G.4 -6G.4 -70|012|-3D8SG.4 1C000|15e6"
+  ],
+	"links": [
+		"Asia/Bangkok|Asia/Phnom_Penh",
+		"Asia/Bangkok|Asia/Vientiane"
+	]
+}
